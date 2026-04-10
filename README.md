@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# 💳 Credit Card Fraud Detection
 
 This project demonstrates a credit card fraud detection system using machine learning. The system is built using Python, Flask, and Scikit-learn, and can be deployed as a web application.
 
